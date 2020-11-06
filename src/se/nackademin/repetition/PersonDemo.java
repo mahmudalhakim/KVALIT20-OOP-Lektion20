@@ -1,3 +1,5 @@
+package se.nackademin.repetition;
+
 /**
  * Created by Mahmud Al Hakim
  * Date: 2020-11-06
